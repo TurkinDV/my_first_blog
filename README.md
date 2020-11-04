@@ -2,6 +2,6 @@
 
 pip install -r requirements.txt
 
-cd ../mysite
+cd mysite
 
 python manage.py runserver
